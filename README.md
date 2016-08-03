@@ -7,21 +7,24 @@ This readme will walk you through the process of setting up a new instance of th
 3. The installation process will prompt you to **Choose a tool to get started with Docker**. Select **Docker Quickstart Terminal**. A terminal window will appear and perform some setup. Let it complete its process which may take 5 or 6 minutes.
 4. You can click the **Continue** button on the **Install Docker Toolbox** application at any time, even if the terminal window is still processing.
 
-#B. Install Xcode Command Line Tools (using a Terminal window)
+#B. Install Xcode Command Line Tools
+_Using a Terminal window._
 1. `xcode-select --install`
 2. Click the **Install** button.
 3. You will see an error message stating the tools are already installed if they are in fact, already installed.
 
-#C. Download and Install craftman (using a Terminal window)
+#C. Download and Install craftman
+_Using a Terminal window._
 1. `touch ~/.bash_profile`
 2. `curl -o- https://raw.githubusercontent.com/gabrielmoreira/craftman/master/craftman_install | sh`
 3. `source ~/.bash_profile`
 
-#D. Create new Craft CMS Container (using a Terminal window)
-3. `cd Desktop`
-4. `mkdir craft-docker && cd craft-docker`
-1. `craftman --port=8080 install`
-2. If a download or setup fails: `craftman -F -O -R install`
+#D. Create new Craft CMS Container
+_Using a Terminal window._
+1. `cd Desktop`
+2. `mkdir craft-docker && cd craft-docker`
+3. `craftman --port=8080 install`
+4. If a download or setup fails: `craftman -F -O -R install`
 
 #E. Craft Setup
 1. Click **Personal** on bottom of the admin page
