@@ -21,7 +21,7 @@ _Using a Terminal window._
 2. `curl -o- https://raw.githubusercontent.com/gabrielmoreira/craftman/master/craftman_install | sh`
 3. `source ~/.bash_profile`
 
-#D. Create new Craft CMS Container
+#D. Create a New Craft CMS Container
 _Using a Terminal window._
 
 1. `cd Desktop`
