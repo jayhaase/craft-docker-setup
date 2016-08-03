@@ -32,4 +32,4 @@ _Using a Terminal window._
 ---
 
 #About craftman
-craftman is a tool for managing Craft CMS containers. It's Git repo can be found here: https://github.com/gabrielmoreira/craftman
+craftman is a tool for managing Craft CMS containers. Its Git repo can be found here: https://github.com/gabrielmoreira/craftman
