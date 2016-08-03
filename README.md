@@ -9,18 +9,21 @@ This readme will walk you through the process of setting up a new instance of th
 
 #B. Install Xcode Command Line Tools
 _Using a Terminal window._
+
 1. `xcode-select --install`
 2. Click the **Install** button.
 3. You will see an error message stating the tools are already installed if they are in fact, already installed.
 
 #C. Download and Install craftman
 _Using a Terminal window._
+
 1. `touch ~/.bash_profile`
 2. `curl -o- https://raw.githubusercontent.com/gabrielmoreira/craftman/master/craftman_install | sh`
 3. `source ~/.bash_profile`
 
 #D. Create new Craft CMS Container
 _Using a Terminal window._
+
 1. `cd Desktop`
 2. `mkdir craft-docker && cd craft-docker`
 3. `craftman --port=8080 install`
