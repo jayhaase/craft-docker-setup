@@ -29,10 +29,6 @@ _Using a Terminal window._
 3. `craftman --port=8080 install`
 4. If a download or setup fails: `craftman -F -O -R install`
 
-#E. Craft Setup
-1. Click **Personal** on bottom of the admin page
-2. Click **Try for free** in the Pro column
-
 ---
 
 #About craftman
