@@ -1,5 +1,12 @@
 #Overview
-This readme contains a set of instructions for creating a Docker container for an instance of the Craft CMS on Mac OS X. These instructions were created for a Craft CMS workshop held at Clockwork (https://www.clockwork.com/).
+This readme contains a set of instructions for creating a Docker container for an instance of the Craft CMS on Mac OS X. These instructions were supplement a Craft CMS workshop held at Clockwork (https://www.clockwork.com/).
+
+These instructions will lead you through the following:
+
+1. Setup of Docker
+2. Setup of craftman
+3. Configuration of a new Docker container for a new Craft CMS instance
+4. Configuration of Craft
 
 #Docker Setup
 1. Download Docker: https://www.docker.com/products/docker#/mac
