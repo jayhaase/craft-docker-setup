@@ -20,7 +20,7 @@ _Using a Terminal window._
 1. `touch ~/.bash_profile`
 2. `curl -o- https://raw.githubusercontent.com/gabrielmoreira/craftman/master/craftman_install | sh`
 3. `source ~/.bash_profile`
-4. Please note, if you already have the file  `~/.bashrc`, you will need to do `source ~/.bash_profile`.
+4. Please note, if you already have the file  `~/.bashrc`, you will need to do `source ~/.bashrc`
 
 #D. Create a New Craft CMS Container
 _Using a Terminal window._
