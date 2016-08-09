@@ -1,6 +1,9 @@
 #Overview
 This readme will walk you through the process of setting up a new instance of the Craft CMS running inside a Docker container. These instructions are a supplement to a Craft CMS workshop held at Clockwork (https://www.clockwork.com/).
 
+#@. Install Docker
+1. Download and install Docker: https://docs.docker.com/engine/installation/mac/#/docker-for-mac
+
 #A. Install the Docker Toolbox
 1. Download the Docker Toolbox: https://www.docker.com/products/docker-toolbox
 2. Double click on the downloaded Docker Toolbox installation package.
